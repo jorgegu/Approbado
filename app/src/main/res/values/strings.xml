@@ -5,4 +5,14 @@
     <string name="title_activity_cunam">Cunam</string>
     <string name="title_activity_cipn">Cipn</string>
     <string name="title_activity_cuam">Cuam</string>
+    <string name="title_activity_test_ipn_cb">TestIpnCB</string>
+    <string name="title_activity_test_ipn_cs">TestIpnCS</string>
+    <string name="title_activity_test_ipn_in">TestIpnIN</string>
+    <string name="title_activity_test_uam_cbe">TestUamCBE</string>
+    <string name="title_activity_test_uam_csh">TestUamCSH</string>
+    <string name="title_activity_test_uam_c">TestUamCA</string>
+    <string name="title_activity_test_unam_bs">TestUnamBS</string>
+    <string name="title_activity_test_unam_cs">TestUnamCS</string>
+    <string name="title_activity_test_unam_fmi">TestUnamFMI</string>
+    <string name="title_activity_test_unam_h">TestUnamHA</string>
 </resources>

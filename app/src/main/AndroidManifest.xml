@@ -33,6 +33,46 @@
         <activity
             android:name=".Cuam"
             android:label="@string/title_activity_cuam"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TestIpnCB"
+            android:label="@string/title_activity_test_ipn_cb"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TestIpnCS"
+            android:label="@string/title_activity_test_ipn_cs"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TestIpnIN"
+            android:label="@string/title_activity_test_ipn_in"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TestUamCBE"
+            android:label="@string/title_activity_test_uam_cbe"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TestUamCSH"
+            android:label="@string/title_activity_test_uam_csh"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TestUamCA"
+            android:label="@string/title_activity_test_uam_c"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TestUnamBS"
+            android:label="@string/title_activity_test_unam_bs"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TestUnamCS"
+            android:label="@string/title_activity_test_unam_cs"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TestUnamFMI"
+            android:label="@string/title_activity_test_unam_fmi"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TestUnamHA"
+            android:label="@string/title_activity_test_unam_h"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
