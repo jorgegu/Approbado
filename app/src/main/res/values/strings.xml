@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Approbado</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_opcion">Opcion</string>
+    <string name="title_activity_cunam">Cunam</string>
+    <string name="title_activity_cipn">Cipn</string>
+    <string name="title_activity_cuam">Cuam</string>
 </resources>

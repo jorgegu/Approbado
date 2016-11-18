@@ -18,6 +18,22 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".Opcion"
+            android:label="@string/title_activity_opcion"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Cunam"
+            android:label="@string/title_activity_cunam"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Cipn"
+            android:label="@string/title_activity_cipn"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Cuam"
+            android:label="@string/title_activity_cuam"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
