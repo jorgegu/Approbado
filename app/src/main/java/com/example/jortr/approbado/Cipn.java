@@ -29,7 +29,7 @@ public class Cipn extends AppCompatActivity {
 
 
 
-        final Intent h5= new Intent(this, Cipn.class);
+        final Intent h5= new Intent(this, TestIpnCB.class);
         Button button9 = (Button) findViewById(R.id.button9);
         button9.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -39,7 +39,7 @@ public class Cipn extends AppCompatActivity {
             }
         });
 
-        final Intent h6= new Intent(this, Cipn.class);
+        final Intent h6= new Intent(this, TestIpnCS.class);
         Button button10 = (Button) findViewById(R.id.button10);
         button10.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -49,7 +49,7 @@ public class Cipn extends AppCompatActivity {
             }
         });
 
-        final Intent h7= new Intent(this, Cipn.class);
+        final Intent h7= new Intent(this, TestIpnIN.class);
         Button button11 = (Button) findViewById(R.id.button11);
         button11.setOnClickListener(new View.OnClickListener() {
             @Override
